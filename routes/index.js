@@ -26,6 +26,6 @@ router.post('/leaderboard', function(req, res){
   })
 
 
-})
+});
 
 module.exports = router;
